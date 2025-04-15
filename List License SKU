@@ -1,0 +1,1 @@
+Get-MgSubscribedSku | Select SkuPartNumber, SkuId, ConsumedUnits, PrepaidUnits
